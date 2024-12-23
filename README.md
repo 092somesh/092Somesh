@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Somesh Harsule</h1>
+<h1 align="center">Hi 👋, I'm Somesh</h1>
 <h3 align="center">🚀 MCA Grad | AI/ML Enthusiast | Full-Stack Developer | Python | Django | React | Crafting Innovative Tech Solutions 🌟</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=092somesh&label=Profile%20views&color=0e75b6&style=flat" alt="092somesh" /> </p>
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [092somesh (SOMESH HARSULE)](092somesh (SOMESH HARSULE))
 
-- 💬 Ask me about **Python, Django, React.js, GoLang, Machine Learning, and Data Structures.**
+- 💬 Ask me about **Python, Django, React.js, Machine Learning, and Data Structures.**
 
 - 📫 How to reach me **205121092.somesh.harsule@gmail.com**
 

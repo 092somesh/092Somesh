@@ -9,17 +9,43 @@
 
 - 🔭 I’m currently working on **Soul Ai**
 
-- 🌱 I’m currently learning **AWS,MLOps,Kafka and Go lang.**
-
-- 👨‍💻 All of my projects are available at [092somesh (SOMESH HARSULE)](092somesh (SOMESH HARSULE))
+- 🌱 I’m currently learning **AWS, MLOps, Kafka and Go lang.**
 
 - 💬 Ask me about **Python, Django, React.js, Machine Learning, and Data Structures.**
 
 - 📫 How to reach me **205121092.somesh.harsule@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YuW91J7zZb5pcjV7sh0XtOyL5CfE6MpP/view?usp=drive_link](https://drive.google.com/file/d/1YuW91J7zZb5pcjV7sh0XtOyL5CfE6MpP/view?usp=drive_link)
+# 🏆 **Featured Projects**
 
-- ⚡ Fun fact **I believe debugging makes code even better! 😄**
+### **1. Water Quality Prediction**  
+🌊 **Description:** Developed a highly accurate machine learning-based solution to predict water quality with an impressive 95% accuracy and 94% R² score. Integrated real-time monitoring and short-term forecasting using LSTM networks.  
+🚀 **Tech Stack:** Python, Scikit-learn, TensorFlow  
+
+---
+
+### **2. CO-OLX**  
+🏫 **Description:** A campus-exclusive online marketplace built to facilitate seamless buying and selling of goods. Enhanced security with webmail authentication, leading to a 35% increase in user engagement.  
+⚙️ **Tech Stack:** Flask, SQLite, HTML/CSS  
+🔗 [View on GitHub](https://github.com/092somesh/Co-OLX)
+
+---
+
+### **3. Chat with Multiple PDF Documents**  
+📄 **Description:** An innovative AI-powered app enabling interactive communication with multiple PDFs using Langchain and Google’s Gemini AI technology.  
+🤖 **Tech Stack:** Python, Langchain, Google Gemini AI  
+🔗 [View on GitHub](https://github.com/092somesh/Chating-With-Multiple-PDF-With-Langchain-And-Google-Gemini)
+
+---
+
+### **4. Machine Learning Internship Projects (Codsoft)**  
+📊 **Description:** Designed and deployed various machine learning models tailored for practical applications during my internship. Gained hands-on experience in real-world ML challenges.  
+📈 **Tech Stack:** Python, Scikit-learn, Pandas  
+
+---
+
+**✨ Fun Fact:** I believe every bug is a stepping stone to innovation! 🚀  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

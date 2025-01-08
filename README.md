@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somesh</h1>
 <h3 align="center">🚀 MCA Grad | AI/ML Enthusiast | Full-Stack Developer | Python | Django | React | Crafting Innovative Tech Solutions 🌟</h3>
+<img src="1710845941841.jpeg" alt="GitHub Banner" width="100%"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=092somesh&label=Profile%20views&color=0e75b6&style=flat" alt="092somesh" /> </p>
 

@@ -16,7 +16,8 @@
 
 - 📫 How to reach me **205121092.somesh.harsule@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YuW91J7zZb5pcjV7sh0XtOyL5CfE6MpP/view?usp=drive_link](https://drive.google.com/file/d/1YuW91J7zZb5pcjV7sh0XtOyL5CfE6MpP/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Z1cvwKCQph81ImpKMpVSwaQwoGToz1pg/view?usp=sharing)
+- 
 # 🏆 **Featured Projects**
 
 ### **1. Water Quality Prediction**  
